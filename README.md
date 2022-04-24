@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YasinOztekin
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m interested in Deep Learning
+- 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on other projects
 - 📫 How to reach me yasinoztekin@iletisim.com
 
